@@ -1,2 +1,2 @@
-test1
-test2
+
+>>>>>>> parent of ed8d276... test2 to revert
